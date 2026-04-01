@@ -1,6 +1,7 @@
 # MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation
 
 [![Conference](https://img.shields.io/badge/CVPR-2026-blue)](https://cvpr.thecvf.com/)
+[![Paper](https://img.shields.io/badge/ArXiv-Paper-red)](https://arxiv.org/abs/2603.29029)
 [![Project Page](https://img.shields.io/badge/Project_Page-GitHub.io-blue)](https://vcbsl.github.io/MMFace-DiT/) 
 [![Models](https://img.shields.io/badge/Models-HuggingFace-green)](https://huggingface.co/BharathK333/MMFace-DiT-Models)
 [![Demo](https://img.shields.io/badge/Demo-HuggingFace-orange)](https://huggingface.co/spaces/BharathK333/MMFace-DiT) 
