@@ -257,7 +257,15 @@ python sample_diffusion.py \
 If you find this work helpful for your research, please cite our CVPR paper:
 
 ```bibtex
-@article{krishnamurthy2026mmface,
+@inproceedings{krishnamurthy2026mmface,
+  title={MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation},
+  author={Krishnamurthy, Bharath and Rattani, Ajita},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4580--4589},
+  year={2026}
+}
+
+@article{krishnamurthy2026mmface_arxiv,
   title={MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation},
   author={Krishnamurthy, Bharath and Rattani, Ajita},
   journal={arXiv preprint arXiv:2603.29029},
